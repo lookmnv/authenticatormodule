@@ -8,14 +8,14 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/???/???.git"
+    "url": "git+https://github.com/lookmnv/authenticatormodule.git"
   },
   "keywords": [],
-  "author": "???",
+  "author": "lookmnv",
   "license": "ISC",
   "bugs": {
-    "url": "https://github.com/???/???/issues"
+    "url": "https://github.com/lookmnv/authenticatormodule/issues"
   },
   "dependencies": {},
-  "homepage": "https://github.com/???/???#readme"
+  "homepage": "https://github.com/lookmnv/authenticatormodule#readme"
 }
